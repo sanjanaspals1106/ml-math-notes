@@ -8,4 +8,5 @@ This repository is built progressively with notes and visual explanations.
 Book 1: Vector intuition and dot product basics
 Book 2: Matrices and matrix-vector multiplication
 Book 3: Derivative intuition and slope visualization
+Book 4: Implement gradient intuition with numerical gradient descent
 
